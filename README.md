@@ -1,4 +1,4 @@
-# Amazon-dataset-samples
+# Amazon 数据集样本
 
 <h2>包含 1001 款 Amazon 商品的样本数据集</h2>
 
